@@ -20,6 +20,10 @@ Normally they are predefined phrases by the creators of the video game that depe
 
 # Different dialog systems
 
+![](https://i.stack.imgur.com/yig2q.png)
+![](https://dk135eecbplh9.cloudfront.net/assets/blt040e3727e9b40f23/DialogTreeStructure.png)
+![](https://i.stack.imgur.com/Krwdk.png)
+
 ## Non-Branching Dialogue
 
 In games using non-branching dialogue, the simplest form of interaction, the player walks up to an NPC and initiates conversation. The NPC delivers his or her lines and the conversation ends. Alternately, initiating a conversation with an NPC triggers a cutscene where the player's avatar and the NPC have a non-interactive dialogue.
@@ -58,6 +62,15 @@ One game notable for its aspirations for cinematic-quality dialogue scenes is In
 
 Once the player decides, his avatar delivers the full line related to the player's choice. In addition, the player has only a limited time in which to make a decision after the NPC finishes speaking. If the player fails to make a decision in that time, the game chooses a response for them, in a deliberate attempt to keep the conversation moving at a more natural pace.
 
-![](https://i.stack.imgur.com/yig2q.png)
-![](https://dk135eecbplh9.cloudfront.net/assets/blt040e3727e9b40f23/DialogTreeStructure.png)
-![](https://i.stack.imgur.com/Krwdk.png)
+# XML use in dialog systems
+-Have all the phrases written so you only have to load them when necessary.
+
+-Remember the options that the player has taken.
+
+-To be able to modify the name of the player.
+
+-code data
+
+By following the basic structure and order we can improve comfort when working with large amounts of text. At the same time that will help us to work with greater speed.
+
+
