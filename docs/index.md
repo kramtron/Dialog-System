@@ -79,6 +79,13 @@ We use SDL_TTF to conveniently and quickly print different characters on the scr
 
 ![](https://lispbuilder.github.io/documentation/ttf-hello-world.png)
 
+## How is it implemented?
+
+### Step 1-Initialize
+![](https://raw.githubusercontent.com/kramtron/Dialog-System/main/img/1.png)
+
+### Step 2-Load font
+![](https://github.com/kramtron/Dialog-System/blob/main/img/2.png)
 
 # What problems does SDL_TTF have?
 
