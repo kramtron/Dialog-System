@@ -85,8 +85,16 @@ We use SDL_TTF to conveniently and quickly print different characters on the scr
 ![](https://raw.githubusercontent.com/kramtron/Dialog-System/main/img/1.png)
 
 ### Step 2-Load font
-![](https://github.com/kramtron/Dialog-System/blob/main/img/2.png)
+![](https://raw.githubusercontent.com/kramtron/Dialog-System/main/img/2.png)
 
+### Step 3-Render Text
+![](https://raw.githubusercontent.com/kramtron/Dialog-System/main/img/3.png)
+
+### Text Input
+![](https://raw.githubusercontent.com/kramtron/Dialog-System/main/img/4.png)
+
+### Delete
+![](https://raw.githubusercontent.com/kramtron/Dialog-System/main/img/5.png)
 # What problems does SDL_TTF have?
 
 The problem is clear, it has memory leaks.
