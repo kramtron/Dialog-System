@@ -73,4 +73,14 @@ Once the player decides, his avatar delivers the full line related to the player
 
 By following the basic structure and order we can improve comfort when working with large amounts of text. At the same time that will help us to work with greater speed.
 
+# How to print characters on screen?
 
+We use SDL_TTF to conveniently and quickly print different characters on the screen.
+
+![](https://lispbuilder.github.io/documentation/ttf-hello-world.png)
+
+
+# What problems does SDL_TTF have?
+
+The problem is clear, it has memory leaks.
+Creating a code that does the same for you may be the solution, but it is not something easy or short to do.
