@@ -69,7 +69,7 @@ Once the player decides, his avatar delivers the full line related to the player
 
 -To be able to modify the name of the player.
 
--code data
+-Code data
 
 By following the basic structure and order we can improve comfort when working with large amounts of text. At the same time that will help us to work with greater speed.
 
